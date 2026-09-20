@@ -5,15 +5,15 @@
   "packages": [
     {
       "id": "com.cgtuan.100skin.pack1",
-      "name": " Mod 100 Skin Liên Quân Tổng Hợp",
+      "name": "Mod 100 Skin Liên Quân Tổng Hợp",
       "version": "1.0.0",
       "author": "CgTuan210",
       "category": "Gói Skin Tổng Hợp",
-      "sizeString": "283.0 MB",
-      "downloadURL": "https://github.com/CgTuan210/100-SKIN-LQ-/releases/tag/v1.0",
+      "sizeString": "297 MB",
+      "downloadURL": "https://github.com/CgTuan210/100-SKIN-LQ-/releases/download/v1.0/MOD.SKIN.LQ.100.SKIN.zip",
       "targetBundleID": "com.garena.game.kgvn",
       "targetSubpath": "Documents",
-      "description": "Gói tổng hợp Mod 100 Skin Liên Quân Mobile mới nhất từ CgTuan."
+      "description": "Gói tổng hợp Mod 100 Skin Liên Quân Mobile mới nhất từ GitHub Release (Bản 297MB)."
     }
   ]
 }
